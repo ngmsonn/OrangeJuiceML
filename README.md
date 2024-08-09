@@ -1,1 +1,1 @@
-# OrangeJuiceML
+# Orange Juice - Machine Learning Project
